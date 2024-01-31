@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @UnknownPlaysX
+- 👀 I’m interested in learning Javascript and C#
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him
